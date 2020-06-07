@@ -6,5 +6,6 @@ def main():
   print('Additions of two numbers: ',a+b)
   print('Multiplication of two numbers: ', a*c)
   print('Division of two numbers: ', c/b)
-  
+  print('No Substraction feature yet.')
+    
 main()
