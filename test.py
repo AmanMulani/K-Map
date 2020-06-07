@@ -6,6 +6,6 @@ def main():
   print('Addition of {0} and {1} : {2}'.format(a, b, a+b))
   print('Multiplication of {0} and {1} : {2} '.format(a, c, a*c))
   print('Division of {0} and {1}: {2} '.format(c, b, c/b))
-
+  print('Substraction of {0} and {1}: {2}'.format(b, c, b-c))
   
 main()
