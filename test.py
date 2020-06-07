@@ -3,8 +3,8 @@ def main():
   a = 1
   b = 2
   c = 2**10 - 3
-  print(a+b)
-  print(a*c)
-  print(c/b)
+  print('Addition',a+b)
+  print('Multiplication',a*c)
+  print('Division',c/b)
   
 main()
